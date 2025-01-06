@@ -39,7 +39,8 @@ Additionally, you can specify the TXD and RXD pins for serial communication, ena
 ---
 
 ### 5. Sample Code
-The sample code is available in `SPIFFS_MIDI_player_example.ino`.
+The sample code is available in the [examples/SPIFFS_MIDI_player_example](examples/SPIFFS_MIDI_player_example) folder.  
+You can open it directly in the Arduino IDE for reference and testing.
 
 ---
 
